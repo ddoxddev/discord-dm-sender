@@ -25,9 +25,12 @@ This script serves as an educational resource to understand:
 Basic Python programming concepts.
 How to interact with Discord's API using the tls_client library.
 The process of automating tasks.
-#Consequences of Misuse
+
+# Consequences of Misuse
+
 Discord has strict policies against automation and spam. Misusing this script can lead to:
 Temporary or permanent bans of your Discord account.
 Restriction of API access.
 Legal repercussions, depending on the nature of the misuse.
+
 # I am not responsible for any consequences resulting from the use of this script. Please use it responsibly and ethically
