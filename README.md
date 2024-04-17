@@ -11,7 +11,6 @@ Disclaimer: This script is for educational purposes only. It demonstrates how to
 Replace "YOUR_TOKEN_HERE" in the script with your Discord user token.
 Set the channel_id variable to the ID of the channel you want to send messages to.
 Modify the message variable to your desired message content.
-Adjust the time.sleep(1800) value to control the delay between messages (in seconds).
 
 # Running the script
 
